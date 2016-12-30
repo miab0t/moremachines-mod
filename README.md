@@ -1,4 +1,4 @@
-# more-machines-mod
+# moremachines-mod
 Minetest more machines mod. More Machines Mod is a modpack that adds 5 new machines, 3 new storage items, 15 eatable items,
 and 4 cash related items for Minetest. 
 
